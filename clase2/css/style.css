@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Rubik+Distressed&display=swap');
+
+/*
+    font-family: 'Patrick Hand', cursive;
+
+    font-family: 'Rubik Distressed', cursive;
+*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+ }
+p{
+    color: black;
+}
+
+ .section-one{
+    color: green;
+ }
+.section-one p{
+    color: red;
+    font-weight: 800;
+    font-family: 'Rubik Distressed', cursive;
+    /*
+    text-align: center;
+   
+    text-decoration-color: green;
+    text-decoration-style:solid;
+    text-decoration-thickness: 2px;*/
+    text-decoration: underline green 2px;
+    text-transform: capitalize;
+    text-indent: 20px;
+    letter-spacing: 2px;
+    word-spacing: 30px;
+    text-shadow: -20px -10px 2px red;
+}
+
+
+ .section-two{
+    color: purple;
+ }
+
+.barraDeNavegacion{
+    background-color: lightblue;
+}
+.barraDeNavegacion li{
+    list-style-type: georgian;
+    list-style-position: inside;
+    list-style: none;
+}
+.barraDeNavegacion li a{
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: bolder;
+    font-style:normal;
+    font-family: 'Patrick Hand', cursive; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ejemplos
+h1{
+    color: lightblue;
+}
+p{
+    color: green;
+
+}
+p{
+    color: aqua;
+}
+
+#color-id{
+    color: red;
+}
+.color-parrafo{
+    color: purple;
+} */
+
+
